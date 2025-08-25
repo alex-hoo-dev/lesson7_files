@@ -1,0 +1,21 @@
+# Core data analysis libraries
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+ipykernel>=6.15.0
+
+# Optional: Additional data analysis tools
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Development and code quality
+black>=22.0.0
+flake8>=5.0.0
+pytest>=7.0.0
